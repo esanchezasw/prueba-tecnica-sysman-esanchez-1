@@ -1,0 +1,4 @@
+com\erika\tasks\dao\TaskDAO.class
+com\erika\tasks\model\Task.class
+com\erika\tasks\servlet\TaskServlet.class
+com\erika\tasks\util\DatabaseConnection.class
